@@ -5,8 +5,6 @@
 using namespace std;
 
 // Product class to represent each product in the store
-//changes are made by bhumit gupta here
-//Janesh is a sexy boy
 class Product {
 private:
     int productID;
